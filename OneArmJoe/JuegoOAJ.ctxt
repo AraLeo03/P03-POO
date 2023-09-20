@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=JuegoOAJ
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ JuegoOAJ\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=JuegoOAJ()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ JuegoOAJ\r\n
+comment2.params=cantJugadores
+comment2.target=void\ setJugadores(int)
+comment3.params=
+comment3.target=int\ getJugadores()
+comment4.params=mulaMax
+comment4.target=void\ setMulaMax(int)
+comment5.params=
+comment5.target=int\ getMulaMax()
+numComments=6
